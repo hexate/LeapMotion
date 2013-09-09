@@ -1,0 +1,15 @@
+# builds
+bin
+obj
+.DS_Store
+*.cachefile
+*.docstates
+*.suo
+*.user
+*ReSharper*
+*.pidb
+*.userprefs
+*.vsp
+*.psess
+BeamXnaContent/Levels/Scratch
+publish
